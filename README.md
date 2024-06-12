@@ -6,6 +6,10 @@ The project includes a REST API, a Web application, and unit tests, all within t
 
 It has been developed following best practices such as layered architecture, dependency injection, SOLID principles, and validations.
 
+## Demo
+
+![Video demonstration of the application](https://www.youtube.com/watch?v=-Qrwt2zqLuU)
+
 ## Tech
 
 - **Microsoft Visual Studio Community 2022 (64-bit)** - Version 17.10.1

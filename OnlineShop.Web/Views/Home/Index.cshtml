@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center mt-5">
+    <h1 class="display-4">Welcome</h1>
+    <p>Store and product manager</p>
+    <div class="d-flex justify-content-center">
+        <div>
+            <a class="btn btn-primary w-100 m-2" asp-area="" asp-controller="Products" asp-action="Index">Products</a>
+            <a class="btn btn-primary w-100 m-2" asp-area="" asp-controller="StoreProducts" asp-action="Index">Stocks</a>
+            <a class="btn btn-primary w-100 m-2" asp-area="" asp-controller="Stores" asp-action="Index">Stores</a>
+        </div>
+    </div>
+</div>

@@ -8,7 +8,7 @@ It has been developed following best practices such as layered architecture, dep
 
 ## Demo
 
-![Video demonstration of the application](https://www.youtube.com/watch?v=-Qrwt2zqLuU)
+Video demonstration of the application: [See video](https://www.youtube.com/watch?v=-Qrwt2zqLuU).
 
 ## Tech
 
